@@ -160,6 +160,7 @@ Clash Royale,November,2020,X,X,3,Progress can be synced through developer's Supe
 Clockify,May,2020,4,No reported issues,4,No reported issues
 CloudEdge,January,2021,X,X,4,No reported issues
 CNN,November,2020,4,No reported issues,4,No reported issues
+CO-OP ATM / Shared Branch Locator,November,2021,1,Requires Google Play to function,X,X
 Coinbase,June,2020,4,No reported issues,4,No reported issues
 Coinbase Wallet,February,2021,X,X,4,No reported issues
 Coinbase Pro,February,2021,X,X,4,No reported issues
@@ -206,7 +207,7 @@ D-Flight,April,2021,4,No reported issues,X,X
 De Lijn,September,2020,2,"Google Play Services warning, map not working",X,X
 Deliveroo,December,2020,1,Unusable,X,X
 Delivery Club,October,2021,X,X,4,No reported issues
-Delta,January,2021,2,"No in-app purchases. No alerts work.",X,X
+Delta,January,2021,2,No in-app purchases. No alerts work.,X,X
 DHL Paket,August,2020,3,"Google Play Service warning, but no effect",4,No reported issues
 DIC-o Czech-English,August,2021,4,No reported issues,X,X
 DIC-o Czech-German,August,2021,4,No reported issues,X,X
@@ -310,6 +311,7 @@ FX File Explorer,September,2020,4,No reported issues,4,No reported issues
 Garmin Connect,October,2021,3,Maps do not show within the app,4,No reported issues
 Geekbench 5,September,2020,4,No reported issues,4,No reported issues
 Gemalto MobilePASS+,April,2021,X,X,4,No reported issues
+Gemini,November,2021,3,"Get error about Fido.FIDO2_API API not being available, but log in is successful. No notifications.",X,X
 Genius Lyrics,July,2020,4,No reported issues,4,No reported issues
 Geometric Weather,August,2021,4,No reported issues,X,X
 Geometry Dash,August,2020,4,No reported issues,X,X
@@ -363,7 +365,7 @@ Graphing Calc (GeoGebra),August,2020,4,No reported issues,X,X
 Greenify,October,2020,X,X,4,No reported issues
 Groupme,June,2020,3,No Notifications,X,X
 Gucci,July,2021,X,X,4,No reported issues
-GuitarTuna,October,2021,3,"Main guitar/bass/ukelele tuners work fine but you can't buy other tuners or get the pro version.",X,X
+GuitarTuna,October,2021,3,Main guitar/bass/ukelele tuners work fine but you can't buy other tuners or get the pro version.,X,X
 H&M,July,2021,X,X,4,No reported issues
 Halifax,August,2020,X,X,4,No reported issues
 HandyTicket Deutschland,April,2020,3,No notifications,X,X
@@ -439,7 +441,7 @@ Klarna,December,2020,3,No Push Notifications,X,X
 Kodi,February,2021,X,X,4,No reported issues
 Komoot,March,2020,4,No reported issues,4,No reported issues
 Koofr,May,2021,X,X,4,No reported issues
-Kraken,February,2021,X,X,4,No reported issues
+Kraken,February,2021,3,No notifications,4,No reported issues
 Kraken Pro,December,2020,4,No reported issues,X,X
 KWGT,August,2021,X,X,4,No reported issues
 L'Appli Société Générale,October,2021,4,No reported issues,4,No reported issues
@@ -520,7 +522,7 @@ Mit 3,April,2021,3,"No notifications. Google Play Services Warning,but no effect
 MiXplorer,October,2020,4,No reported issues,4,No reported issues
 Mobilbank DK,April,2021,3,No notifications,X,X
 Mobile Iron / Mobile@Work,September,2020,X,X,1,Unusable
-Mobile Pay,April,2021,3,"No notifications. Google Play Services warning but no effect.",4,No reported issues
+Mobile Pay,April,2021,3,No notifications. Google Play Services warning but no effect.,4,No reported issues
 Modo,May,2020,X,X,2,Reliability performance and location issues
 Monerujo,September,2020,4,No reported issues,X,X
 Monzo,September,2020,3,No notifications,4,No reported issues
@@ -544,10 +546,10 @@ My Beeling,May,2021,X,X,4,No reported issues
 My Optus,July,2020,4,No reported issues,4,No reported issues
 My Spectrum,February,2021,X,X,4,No reported issues
 myStop Mobile,November,2020,3,No map,4,No reported issues
-MySudo,October,2021,3,"Works without notifications using account transfer feature: https://support.mysudo.com/hc/en-us/articles/360049383553-Update-to-the-new-MySudo-for-Android-1-4-0-version-",3,"Works w/ notifications using account transfer feature: https://support.mysudo.com/hc/en-us/articles/360049383553-Update-to-the-new-MySudo-for-Android-1-4-0-version-"
+MySudo,October,2021,3,Works without notifications using account transfer feature: https://support.mysudo.com/hc/en-us/articles/360049383553-Update-to-the-new-MySudo-for-Android-1-4-0-version-,3,Works w/ notifications using account transfer feature: https://support.mysudo.com/hc/en-us/articles/360049383553-Update-to-the-new-MySudo-for-Android-1-4-0-version-
 My Vodafone Italia,December,2020,3,No notifications,X,X
 MyJioApp,August,2021,4,No reported issues,X,X
-N26,September,2021,3,No push notifications,4,"No reported issues"
+N26,September,2021,3,No push notifications,4,No reported issues
 NAB Mobile Banking,May,2020,4,No reported issues,4,No reported issues
 Nanoleaf Smarter Series,February,2021,X,X,4,No reported issues
 Naruto Blazing,November,2020,X,X,4,No reported issues
@@ -591,6 +593,7 @@ NS,July,2021,4,No reported issues,X,X
 Nubank,March,2021,X,X,4,No reported issues
 nzb360,January,2021,3,Works but no in-app purchases,X,X
 NZ COVID Tracer,June,2020,4,No reported issues,4,No reported issues
+O'Reilly,November,2021,3,No notifications,X,X
 OBB Scotty,August,2020,X,X,4,No reported issues
 Oculus,May,2021,4,No reported issues,4,No reported issues
 OfficeSuite Pro,September,2020,X,X,4,"Manually installed, unupgradeable"
@@ -713,7 +716,7 @@ Satispay Business,May,2021,4,No reported issues,4,No reported issues
 Sbanken,March,2021,X,X,4,No reported issues
 SBB Mobile,September,2021,X,X,4,No reported issues
 Sberbank Online,May,2021,X,X,4,No reported issues
-Schwab Mobile,May,2021,X,X,3,"Biometric login doesn't work. Re-authentication with User ID and Password on every restart of app is needed."
+Schwab Mobile,May,2021,X,X,3,Biometric login doesn't work. Re-authentication with User ID and Password on every restart of app is needed.
 SD Maid,February,2021,X,X,4,No reported issues
 Secure PDF Viewer,May,2020,4,No reported issues,4,No reported issues
 SecureW2 JoinNow,October,2020,3,"Google Play Services warning, but no effect",X,X
@@ -876,6 +879,7 @@ Uni Innsbruck,December,2020,4,No reported issues,X,X
 UniFi Network,August,2021,4,No reported issues,X,X
 Untappd,July,2021,3,Maps do not work. May not be because of GSF,X,X
 Up Banking,November,2020,1,Cannot log in,4,No reported issues
+Uphold,November,2021,1,Cannot log in,X,X
 UPS,November,2020,X,X,4,No reported issues
 Urban Outfitters,July,2021,X,X,4,No reported issues
 USAA,February,2021,4,No reported issues,4,No reported issues
